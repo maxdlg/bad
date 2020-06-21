@@ -1,0 +1,5 @@
+.prettierrc.json
+package-lock.json
+package.json
+.eslintrc.js
+node_modules/

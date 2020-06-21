@@ -1,0 +1,37 @@
+body {
+    font-family: monospace;
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+h3 {
+    font-size: 0.75rem;
+}
+
+.gameSpace {
+    display: grid;
+    grid-template: repeat(3, 100px) / repeat(3, 100px);
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.gameSpace * {
+    display: inline;
+    margin: 0;
+    border-style: solid;
+    border-color: black;
+    padding-top: 28px;
+}
+
+#\30 {
+    border-width: 0 2px 2px 0;
+}
+
+#\31 {
+    border-width: 0px 2px 2px 2px;
+}
+
