@@ -27,11 +27,38 @@ h3 {
     padding-top: 28px;
 }
 
-#\30 {
+#num0 {
     border-width: 0 2px 2px 0;
 }
 
-#\31 {
+#num1 {
     border-width: 0px 2px 2px 2px;
 }
 
+#num2 {
+    border-width: 0 0 2px 2px;
+}
+
+#num3 {
+    border-width: 2px 2px 2px 0;
+}
+
+#num4 {
+    border-width: 2px;
+}
+
+#num5 {
+    border-width: 2px 0 2px 2px;
+}
+
+#num6 {
+    border-width: 2px 2px 0 0;
+}
+
+#num7 {
+    border-width: 2px 2px 0 2px;
+}
+
+#num8 {
+    border-width: 2px 0 0 2px;
+}
